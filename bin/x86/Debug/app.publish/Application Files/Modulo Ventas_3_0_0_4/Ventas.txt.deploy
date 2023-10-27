@@ -1,0 +1,9 @@
+﻿
+* Móduo Ventas *
+
+Baja de Clientes.
+
++ Se puede dar de baja sólo un Cliente Padre o tambien se pueden incluir en la baja a los Clientes Hijos (Sucursales),
++ Automaticamente tambien se dan de baja en la tabla Cat_ClientesP, que es donde se guardan todos los clientes a los que se les procesa dinero
++ Si la fecha de baja es la actual se cambia el estatus directamente del cliente seleccionado en la s tablas correspondientes (cat_clientes, cat_clientesp)
++ Si la fecha es una fecha posterior, solo se inserta un registro en la tabla cat_Bajas

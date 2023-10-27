@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+<style>
+html, body {
+height: 100%;
+margin: 0;
+padding: 0;
+}
+#map {
+height: 100%;
+}
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script>
+ function initMap() {
+var map = new google.maps.Map(document.getElementById('map'), {
+center: {lat:  25.6784480, lng: -100.3237690},
+scrollwheel: true,
+zoom: 12
+});
+var marker1 = new google.maps.Marker({
+map: map,
+position: {lat: 25.416198, lng: -100.988461},
+title: '443 - AARON MUÑOZ LOPEZ',
+animation: google.maps.Animation.DROP
+});
+ var infowindow1 = new google.maps.InfoWindow({
+content: " <h3>443 - AARON MUÑOZ LOPEZ</h3>" + "<div id=\"bodyContent\">" + "<b>Dirección: </b>URDIÑOLA SUR 1115, LA MADRID<br><b>Ciudad: </b>SALTILLO<br><br><b>Latitud: </b>25.416198<br><b>Longitud: </b>-100.988461"
+  });
+ marker1.addListener('click', function() {
+  infowindow1.open(marker1.get('map'), marker1);
+ });
+var marker2 = new google.maps.Marker({
+map: map,
+position: {lat: 25.679490, lng: -100.345930},
+title: '176-6 - ABA SEGUROS S.A. DE C.V.- CHEPEVERA',
+animation: google.maps.Animation.DROP
+});
+ var infowindow2 = new google.maps.InfoWindow({
+content: " <h3>176-6 - ABA SEGUROS S.A. DE C.V.- CHEPEVERA</h3>" + "<div id=\"bodyContent\">" + "<b>Dirección: </b>SIMON BOLIVAR 777, CHEPEVERA<br><b>Ciudad: </b>MONTERREY<br><br><b>Latitud: </b>25.679490<br><b>Longitud: </b>-100.345930"
+  });
+ marker2.addListener('click', function() {
+  infowindow2.open(marker2.get('map'), marker2);
+ });
+var marker3 = new google.maps.Marker({
+map: map,
+position: {lat: 25.712600, lng: -100.377600},
+title: '176-7 - ABA SEGUROS S.A. DE C.V.- CUMBRES',
+animation: google.maps.Animation.DROP
+});
+ var infowindow3 = new google.maps.InfoWindow({
+content: " <h3>176-7 - ABA SEGUROS S.A. DE C.V.- CUMBRES</h3>" + "<div id=\"bodyContent\">" + "<b>Dirección: </b>AV. PASEO DE LOS LEONES 2341, CUMBRES 2 DO. SECTOR<br><b>Ciudad: </b>MONTERREY<br><br><b>Latitud: </b>25.712600<br><b>Longitud: </b>-100.377600"
+  });
+ marker3.addListener('click', function() {
+  infowindow3.open(marker3.get('map'), marker3);
+ });
+var marker4 = new google.maps.Marker({
+map: map,
+position: {lat: 25.773533, lng: -100.190362},
+title: '521 - ACEROS TICOREGIOS',
+animation: google.maps.Animation.DROP
+});
+ var infowindow4 = new google.maps.InfoWindow({
+content: " <h3>521 - ACEROS TICOREGIOS</h3>" + "<div id=\"bodyContent\">" + "<b>Dirección: </b>SALINAS DE GORTARI 404, CENTRO<br><b>Ciudad: </b>APODACA<br><br><b>Latitud: </b>25.773533<br><b>Longitud: </b>-100.190362"
+  });
+ marker4.addListener('click', function() {
+  infowindow4.open(marker4.get('map'), marker4);
+ });
+var marker5 = new google.maps.Marker({
+map: map,
+position: {lat: 25.678171, lng: -100.323706},
+title: '492 - ACTINVER CAJA GENERAL',
+animation: google.maps.Animation.DROP
+});
+ var infowindow5 = new google.maps.InfoWindow({
+content: " <h3>492 - ACTINVER CAJA GENERAL</h3>" + "<div id=\"bodyContent\">" + "<b>Dirección: </b>GUILLERMO GONZALEZ CAMARENA 1200, CENTRO DE CD SANTA FE<br><b>Ciudad: </b>MONTERREY<br><br><b>Latitud: </b>25.678171<br><b>Longitud: </b>-100.323706"
+  });
+ marker5.addListener('click', function() {
+  infowindow5.open(marker5.get('map'), marker5);
+ });
+var marker6 = new google.maps.Marker({
+map: map,
+position: {lat: 25.778290, lng: -100.186050},
+title: '492-2 - ACTINVER- APODACA (SUC 160)',
+animation: google.maps.Animation.DROP
+});
+ var infowindow6 = new google.maps.InfoWindow({
+content: " <h3>492-2 - ACTINVER- APODACA (SUC 160)</h3>" + "<div id=\"bodyContent\">" + "<b>Dirección: </b>MORELOS 599, CENTRO<br><b>Ciudad: </b>APODACA<br><br><b>Latitud: </b>25.778290<br><b>Longitud: </b>-100.186050"
+  });
+ marker6.addListener('click', function() {
+  infowindow6.open(marker6.get('map'), marker6);
+ });
+var marker7 = new google.maps.Marker({
+map: map,
+position: {lat: 25.640160, lng: -100.285600},
+title: '492-4 - ACTINVER- GARZA SADA (SUC 180)',
+animation: google.maps.Animation.DROP
+});
+ var infowindow7 = new google.maps.InfoWindow({
+content: " <h3>492-4 - ACTINVER- GARZA SADA (SUC 180)</h3>" + "<div id=\"bodyContent\">" + "<b>Dirección: </b>AV. EUGENIO GARZA SADA 1892, CONTRY<br><b>Ciudad: </b>MONTERREY<br><br><b>Latitud: </b>25.640160<br><b>Longitud: </b>-100.285600"
+  });
+ marker7.addListener('click', function() {
+  infowindow7.open(marker7.get('map'), marker7);
+ });
+var marker8 = new google.maps.Marker({
+map: map,
+position: {lat: 25.665880, lng: -100.380710},
+title: '492-3 - ACTINVER- HUMBERTO LOBO (SUC 169)',
+animation: google.maps.Animation.DROP
+});
+ var infowindow8 = new google.maps.InfoWindow({
+content: " <h3>492-3 - ACTINVER- HUMBERTO LOBO (SUC 169)</h3>" + "<div id=\"bodyContent\">" + "<b>Dirección: </b>HUMBERTO LOBO SUR 800, DEL VALLE<br><b>Ciudad: </b>SAN PEDRO GARZA GARCIA<br><br><b>Latitud: </b>25.665880<br><b>Longitud: </b>-100.380710"
+  });
+ marker8.addListener('click', function() {
+  infowindow8.open(marker8.get('map'), marker8);
+ });
+var marker9 = new google.maps.Marker({
+map: map,
+position: {lat: 25.731090, lng: -100.397000},
+title: '492-1 - ACTINVER- MONTERREY PLAZA CUMBRES (SUC 118)',
+animation: google.maps.Animation.DROP
+});
+ var infowindow9 = new google.maps.InfoWindow({
+content: " <h3>492-1 - ACTINVER- MONTERREY PLAZA CUMBRES (SUC 118)</h3>" + "<div id=\"bodyContent\">" + "<b>Dirección: </b>HCDA. PEÑUELAS 6771, RESIDENCIAL CUMBRES<br><b>Ciudad: </b>MONTERREY<br><br><b>Latitud: </b>25.731090<br><b>Longitud: </b>-100.397000"
+  });
+ marker9.addListener('click', function() {
+  infowindow9.open(marker9.get('map'), marker9);
+ });
+var marker10 = new google.maps.Marker({
+map: map,
+position: {lat: 25.650744, lng: -100.358575},
+title: '492-7 - ACTINVER- SAN PEDRO GOMEZ MORIN',
+animation: google.maps.Animation.DROP
+});
+ var infowindow10 = new google.maps.InfoWindow({
+content: " <h3>492-7 - ACTINVER- SAN PEDRO GOMEZ MORIN</h3>" + "<div id=\"bodyContent\">" + "<b>Dirección: </b>AV. GOMEZ MORIN 300, RESIDENCIAL DEL CAMPESTRE<br><b>Ciudad: </b>MONTERREY<br><br><b>Latitud: </b>25.650744<br><b>Longitud: </b>-100.358575"
+  });
+ marker10.addListener('click', function() {
+  infowindow10.open(marker10.get('map'), marker10);
+ });
+var marker11 = new google.maps.Marker({
+map: map,
+position: {lat: 25.661104, lng: -100.384292},
+title: '492-6 - ACTINVER- SAN PEDRO VALLE',
+animation: google.maps.Animation.DROP
+});
+ var infowindow11 = new google.maps.InfoWindow({
+content: " <h3>492-6 - ACTINVER- SAN PEDRO VALLE</h3>" + "<div id=\"bodyContent\">" + "<b>Dirección: </b>CALZADA DEL VALLE OTE. 331, DEL VALLE<br><b>Ciudad: </b>SAN PEDRO GARZA GARCIA<br><br><b>Latitud: </b>25.661104<br><b>Longitud: </b>-100.384292"
+  });
+ marker11.addListener('click', function() {
+  infowindow11.open(marker11.get('map'), marker11);
+ });
+var marker12 = new google.maps.Marker({
+map: map,
+position: {lat: 25.689203, lng: -100.352824},
+title: '492-5 - ACTINVER- VISTA HERMOSA',
+animation: google.maps.Animation.DROP
+});
+ var infowindow12 = new google.maps.InfoWindow({
+content: " <h3>492-5 - ACTINVER- VISTA HERMOSA</h3>" + "<div id=\"bodyContent\">" + "<b>Dirección: </b>AV. ENRIQUE C. LIVAS 200, VISTA HERMOSA<br><b>Ciudad: </b>MONTERREY<br><br><b>Latitud: </b>25.689203<br><b>Longitud: </b>-100.352824"
+  });
+ marker12.addListener('click', function() {
+  infowindow12.open(marker12.get('map'), marker12);
+ });
+}
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAZz0FPBVMXdZb0UwJGl9WwQk0co3GZ960&callback=initMap"
+   async defer></script>
+</body>
+</html>

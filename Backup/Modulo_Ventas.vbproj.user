@@ -1,0 +1,17 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+    <ReferencePath>C:\Program Files (x86)\Business Objects\Common\2.8\managed\c:\Program Files\Business Objects\Common\2.8\managed\C:\Archivos de programa\Business Objects\Common\2.8\managed\</ReferencePath>
+    <PublishUrlHistory>http://Sistemas2.sissaseguridad.local/Modulo_Ventas2017/|http://Sistemas2.sissaseguridad.local/Modulo_Ventas2015/|http://Sistemas2.sissaseguridad.local/Modulo_Ventas/|http://Sistemas2/Modulo_Ventas/|http://localhost/Modulo_Ventas/</PublishUrlHistory>
+    <InstallUrlHistory>http://dvl-mty-v01.sissaseguridad.local/Modulo_Ventas2017/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.sissaseguridad.com</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>\\sistemas2\wwwroot\PreRequisitos</BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>es-ES</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

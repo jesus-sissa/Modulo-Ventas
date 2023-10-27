@@ -1,0 +1,129 @@
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\Documents and Settings\Administrador\Configuración local\Datos de programa\Temporary Projects\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Debug\office.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Splash.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Splash.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Splash.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_DocumentosRequeridos.resources

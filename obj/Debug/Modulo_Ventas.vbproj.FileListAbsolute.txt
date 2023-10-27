@@ -1,0 +1,1245 @@
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Splash.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Debug\Modulo Ventas.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Splash.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Debug\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VerMensajes.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VerMensajes.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VerMensajes.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Agenda.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cita.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Agenda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cita.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallas.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cotizaciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cotizaciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Mapas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Agenda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cita.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cotizaciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Mapas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VerMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Outlook.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VisorImagenes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MensajeAlerta.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MensajeAlerta.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Agenda.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertes.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cita.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cotizaciones.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Mapas.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Outlook.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallas.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasConsultar.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VerMensajes.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VisorImagenes.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Iniciación Programadores\extra\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionDetalle.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionValidar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionConsulta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CargarArchivos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMovValidar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DoctosRequeridos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesListaNegra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesBaja.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BuscarSubClientes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\SIAC\CodigoFuente\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\CodigoFuente\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\SIAC\CodigoFuente\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\SIAC\CodigoFuente\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\SIAC\CodigoFuente\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionDetalle.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionValidar.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccion.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionConsulta.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BuscarSubClientes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMovValidar.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CargarArchivos.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesBaja.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesListaNegra.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DoctosRequeridos.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MensajeAlerta.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Agenda.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cita.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cotizaciones.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Mapas.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Outlook.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallas.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasConsultar.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VerMensajes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VisorImagenes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AlertasConsultas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasI.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Ayuda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesActualizar.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionDetalle.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionValidar.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccion.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionConsulta.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AlertasConsultas.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Ayuda.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BuscarSubClientes.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMovValidar.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CargarArchivos.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesActualizar.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesBaja.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesListaNegra.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DoctosRequeridos.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MensajeAlerta.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasI.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Agenda.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertes.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cita.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cotizaciones.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Mapas.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Outlook.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallas.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasConsultar.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VerMensajes.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VisorImagenes.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Iniciador\Modulos\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesHorarios.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionDetalle.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionValidar.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccion.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionConsulta.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AlertasConsultas.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Ayuda.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BuscarSubClientes.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMovValidar.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CargarArchivos.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesActualizar.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesHorarios.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesBaja.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesListaNegra.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DoctosRequeridos.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MensajeAlerta.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasI.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Agenda.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertes.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cita.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cotizaciones.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Mapas.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Outlook.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallas.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasConsultar.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VerMensajes.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VisorImagenes.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\Users\carlos.bustillo\Desktop\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\SIAC\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\SIAC\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\SIAC\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\SIAC\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\SIAC\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\SIAC\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionDetalle.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionValidar.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccion.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionConsulta.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AlertasConsultas.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Ayuda.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BuscarSubClientes.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMovValidar.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CargarArchivos.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesActualizar.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesHorarios.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesBaja.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesListaNegra.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DoctosRequeridos.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MensajeAlerta.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteContratoXSistema.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasI.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Agenda.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertes.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cita.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cotizaciones.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Mapas.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Outlook.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallas.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VerMensajes.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VisorImagenes.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteContratoXSistema.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DescargarArchivo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DescargarArchivo.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionDetalle.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionValidar.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccion.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionConsulta.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AlertasConsultas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Ayuda.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BuscarSubClientes.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMovValidar.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CargarArchivos.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesActualizar.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesHorarios.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesBaja.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesListaNegra.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DescargarArchivo.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DoctosRequeridos.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MensajeAlerta.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteContratoXSistema.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasI.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Agenda.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertes.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cita.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cotizaciones.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Mapas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Outlook.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VerMensajes.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VisorImagenes.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\SIAC\Modulos\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\SIAC\Modulos\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Modulos\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\SIAC\Modulos\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\SIAC\Modulos\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\SIAC\Modulos\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionDetalle.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionValidar.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccion.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionConsulta.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AlertasConsultas.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Ayuda.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BuscarSubClientes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMovValidar.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CargarArchivos.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesActualizar.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesHorarios.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesBaja.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesListaNegra.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DescargarArchivo.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DoctosRequeridos.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MensajeAlerta.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteContratoXSistema.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasI.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Agenda.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cita.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cotizaciones.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Mapas.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Outlook.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallas.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VerMensajes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VisorImagenes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\SIAC\Modulos\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ModificarOrigenDestino.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ModificarOrigenDestino.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ModificarOrigenDestino.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AgendaCita.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AgendaTodas.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AgendaCita.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AgendaTodas.resources
+C:\YO_GERMAN\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\YO_GERMAN\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\YO_GERMAN\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\YO_GERMAN\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\YO_GERMAN\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\YO_GERMAN\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionDetalle.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionValidar.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccion.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionConsulta.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AgendaCita.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AgendaTodas.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AlertasConsultas.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Ayuda.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BuscarSubClientes.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMovValidar.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CargarArchivos.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesActualizar.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesHorarios.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesBaja.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesListaNegra.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DescargarArchivo.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DoctosRequeridos.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MensajeAlerta.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ModificarOrigenDestino.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteContratoXSistema.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasI.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Agenda.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertes.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cita.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cotizaciones.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Mapas.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Outlook.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallas.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasConsultar.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VerMensajes.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VisorImagenes.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\YO_GERMAN\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaConexion.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Settings.resources
+C:\SIAC\Siac\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\SIAC\Siac\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Siac\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\SIAC\Siac\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\SIAC\Siac\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\SIAC\Siac\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionDetalle.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionValidar.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccion.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionConsulta.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AgendaCita.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AgendaTodas.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AlertasConsultas.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Ayuda.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BuscarSubClientes.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMovValidar.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CargarArchivos.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesActualizar.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesHorarios.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesBaja.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesListaNegra.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DescargarArchivo.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DoctosRequeridos.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaConexion.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MensajeAlerta.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ModificarOrigenDestino.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteContratoXSistema.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasI.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Settings.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Agenda.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertes.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cita.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cotizaciones.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Mapas.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Outlook.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallas.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasConsultar.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VerMensajes.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VisorImagenes.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Siac\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaConexion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Settings.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MapaClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MapaClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MapaClientesBuscar.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MapaClientesBuscar.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MapaRutas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MapaRutas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.config
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\bin\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\bin\Debug\Modulo Ventas.application
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\bin\Debug\Modulo Ventas.exe
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\bin\Debug\Modulo Ventas.pdb
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\bin\Debug\Modulo Ventas.xml
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionDetalle.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionValidar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccion.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActaInspeccionConsulta.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AgendaCita.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AgendaTodas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AlertasConsultas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Ayuda.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MapaClientesBuscar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BuscarSubClientes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMovValidar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CargarArchivos.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesActualizar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesHorarios.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesModal.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesBaja.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientesListaNegra.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DescargarArchivo.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_DoctosRequeridos.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaConexion.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MapaClientes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MapaRutas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MensajeAlerta.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ModificarOrigenDestino.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteContratoXSistema.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasI.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Settings.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Agenda.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CapturarDestino.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cita.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Cotizaciones.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Instancias.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Mapas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Outlook.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasModal.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CajasBancarias.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesBaja.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesProceso.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GenerarCarta.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Reporte.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContactosModal.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_TEFModal.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_About.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clientes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginContra.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Login.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_MENU.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VerMensajes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_VisorImagenes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.Resources.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ValidarCartas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo Ventas.TrustInfo.xml
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo Ventas.exe.manifest
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo Ventas.application
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo Ventas.exe
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo Ventas.xml
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Ventas\obj\Debug\Modulo Ventas.pdb
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clausulas.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClonarServiciosHorarios.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Contratos.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContratosClausulas.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasBCliente.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteGeneralClientes.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteGeneralHorarios.resources
+C:\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesHorariosUno.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Clausulas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClonarServiciosHorarios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_Contratos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ContratosClausulas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_CuentasBCliente.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteGeneralClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ReporteGeneralHorarios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Debug\Modulo_Ventas.frm_ClientesHorariosUno.resources

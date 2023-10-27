@@ -1,0 +1,382 @@
+Attribute VB_Name = "Modulo1"
+Sub Macro_NuevoHorario()
+    Application.EnableEvents = False
+    Dim C As String
+    C = Excel.ActiveWorkbook.Sheets(2).Range("$A$10").Value
+    ActiveSheet.Unprotect Password:=C
+
+    Range("A10000").End(xlUp).Select
+    ActiveCell.Offset(1, 0).Select
+    'Ubicar la ultima Fila
+    Dim Fila As Integer
+    Fila = ActiveCell.Row
+
+    'Validar que este llenos los datos en las nuevas filas antes de ingresar otro nuevo
+    If Range("D" & (Fila - 1)).Interior.Color = 5287936 And Range("V" & (Fila - 1)).Value = "ACTIVO" Then
+        If Range("E" & (Fila - 1)).Value = "" Or Range("G" & (Fila - 1)).Value = "" _
+        Or Range("H" & (Fila - 1)).Value = "" Or Range("I" & (Fila - 1)).Value = "" _
+        Or Range("J" & (Fila - 1)).Value = "" Or Range("L" & (Fila - 1)).Value = "" _
+        Or Range("M" & (Fila - 1)).Value = "" Or Range("N" & (Fila - 1)).Value = "" _
+        Or Range("O" & (Fila - 1)).Value = "" Or Range("P" & (Fila - 1)).Value = "" _
+        Or Range("R" & (Fila - 1)).Value = "" Or Range("S" & (Fila - 1)).Value = "" _
+        Or Range("T" & (Fila - 1)).Value = "" Or Range("U" & (Fila - 1)).Value = "" Then
+            MsgBox "Faltan Datos por Capturar en la ultima fila."
+            ActiveWindow.ScrollColumn = 8
+            Range("E" & (Fila - 1)).Select
+            ActiveSheet.Protect Password:=C
+	    Application.EnableEvents = True
+            Exit Sub
+        End If
+    Else
+        If Range("D" & (Fila - 1)).Interior.Color = 5287936 And Range("V" & (Fila - 1)).Value = "BAJA" Then
+            Dim Respuesta As String
+            Respuesta = MsgBox("Ya existe una fila Nueva dada de Baja, desea activarla?", vbQuestion + vbYesNo)
+            If Respuesta = vbYes Then
+                Range("V" & (Fila - 1)).Value = "ACTIVO"
+                Range("E" & (Fila - 1)).Select
+            End If
+            Range("E" & (Fila - 1)).Select
+            ActiveSheet.Protect Password:=C
+	    Application.EnableEvents = True
+            Exit Sub
+        End If
+    End If
+
+    Range("F" & Fila).Select
+    With Selection.Validation
+        'Validar que se seleccione la Clave del Cliente
+        .Delete
+        .Add Type:=3, AlertStyle:=1, Operator:=1, Formula1:="=ClientesAfectar"
+        .IgnoreBlank = True
+        .InCellDropdown = True
+        .InputTitle = "Clientes"
+        .ErrorTitle = "Horarios"
+        .InputMessage = ""
+        .ErrorMessage = _
+        "De la Lista desplegable se debe de seleccionar la Clave del Cliente."
+        .ShowInput = True
+        .ShowError = True
+    End With
+    Range("G" & (Fila - 1) & ":V" & (Fila - 1)).Select
+    Selection.AutoFill Destination:=Range("G" & (Fila - 1) & ":V" & Fila), Type:=xlFillDefault
+    Range("G" & Fila).Select
+    Selection.ClearContents
+    Range("H" & Fila).FormulaR1C1 = "=TODAY()"
+    Range("J" & Fila).Select
+    Selection.ClearContents
+    Range("L" & Fila & ":N" & Fila).Select
+    Selection.ClearContents
+    Range("P" & Fila).Select
+    Selection.ClearContents
+    Range("R" & Fila & ":V" & Fila).Select
+    Selection.ClearContents
+
+    Range("V" & Fila).Value = "ACTIVO"
+    Range("L" & Fila).Value = "CADA 1 SEMANA"
+
+    Range("E" & Fila).Select
+    Selection.FormatConditions.Add Type:=xlExpression, Formula1:= _
+        "=$V$" & Fila & "=""BAJA"""
+    Selection.FormatConditions(Selection.FormatConditions.Count).SetFirstPriority
+    With Selection.FormatConditions(1).Interior
+        .PatternColorIndex = xlAutomatic
+        .Color = 255
+        .TintAndShade = 0
+    End With
+    Selection.FormatConditions(1).StopIfTrue = False
+
+    'Colorear para identificar que será un registro nuevo
+    Range("D" & Fila).Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .Color = 5287936
+        .TintAndShade = 0
+        .PatternTintAndShade = 0
+    End With
+    Range("E" & Fila).Select
+    With Selection.Interior
+        .Pattern = xlSolid
+        .PatternColorIndex = xlAutomatic
+        .Color = 5287936
+        .TintAndShade = 0
+        .PatternTintAndShade = 0
+    End With
+
+    'Volver a bloquear todos los registros
+    Range("E" & Fila & ":V" & Fila).Select
+    Selection.Locked = False
+
+    Range("A" & Fila).Value = "0"
+    Range("B" & Fila).Value = "0"
+    Range("C" & Fila).Value = "0"
+    Range("D" & Fila).Value = "0"
+    Range("K" & Fila).Value = ""
+    Range("Q" & Fila).Value = ""
+    Range("BA" & Fila).Value = "0"
+    Range("BB" & Fila).Value = "0"
+    Range("BC" & Fila).Value = "N"
+    Range("BD" & Fila).Value = "EDITADO"
+
+    ActiveWindow.ScrollColumn = 8
+    Range("E" & Fila).Select
+
+    ActiveSheet.Protect Password:=C
+    Application.EnableEvents = True
+End Sub
+
+Private Sub AddCode(Sht As Worksheet, Code As String)
+    Dim VBC As Object 'VBComponent
+    Set VBC = Sht.Parent.VBProject.VBComponents(Sht.CodeName)
+    VBC.CodeModule.AddFromString Code
+    Set VBC = Nothing
+End Sub
+
+Sub Macro_HojaHorarios()
+    Application.EnableEvents = False
+    Dim Sht As Worksheet, Code As String
+    
+    Code = "Private Sub Worksheet_Change(ByVal Target As Range)" & vbCrLf
+    Code = Code & "    'Evento autoajustar columna cada vez que se modifica un cliente" & vbCrLf
+    Code = Code & "    Application.EnableEvents = False" & vbCrLf
+    Code = Code & "    Dim C As String" & vbCrLf
+    Code = Code & "    Dim Cliente As String" & vbCrLf
+    Code = Code & "    Dim Clave As String" & vbCrLf
+    Code = Code & "    Dim Id As Integer" & vbCrLf
+    Code = Code & "    Dim Id_CS As Integer" & vbCrLf
+    Code = Code & "    C = Excel.ActiveWorkbook.Sheets(2).Range(""$A$10"").Value" & vbCrLf
+    Code = Code & "    ActiveSheet.Unprotect Password:=C" & vbCrLf
+    Code = Code & "    Select Case Target.Column" & vbCrLf
+    Code = Code & "        Case 5 'E -- Al ingresar una clave ponga el cliente" & vbCrLf
+    Code = Code & "            Call Buscar_Cliente("""", Range(""E"" & Target.Row).Value, Cliente, Id)" & vbCrLf
+    Code = Code & "            Call Buscar_IdCS(Range(""E"" & Target.Row).Value, """", Id_CS)" & vbCrLf
+    Code = Code & "            Range(""A"" & Target.Row).Value = Id_CS" & vbCrLf
+    Code = Code & "            Range(""D"" & Target.Row).Value = Id" & vbCrLf
+    Code = Code & "            Range(""F"" & Target.Row).Value = Cliente" & vbCrLf
+    Code = Code & "            Columns(""F:F"").EntireColumn.AutoFit" & vbCrLf
+    Code = Code & "        Case 6 'F -- Al ingresar un cliente ponga la clave" & vbCrLf
+    Code = Code & "            Call Buscar_ClaveCliente("""", Range(""F"" & Target.Row).Value, Clave, Id)" & vbCrLf
+    Code = Code & "            Call Buscar_IdCS("""", Range(""F"" & Target.Row).Value, Id_CS)" & vbCrLf
+    Code = Code & "            Range(""A"" & Target.Row).Value = Id_CS" & vbCrLf
+    Code = Code & "            Range(""D"" & Target.Row).Value = Id" & vbCrLf
+    Code = Code & "            Range(""E"" & Target.Row).Value = Clave" & vbCrLf
+    Code = Code & "        Case 9 'I -- Al cambiar la sucursal origen borre el clave y cliente origen" & vbCrLf
+    Code = Code & "            Range(""J"" & Target.Row).Value = """"" & vbCrLf
+    Code = Code & "            Range(""K"" & Target.Row).Value = """"" & vbCrLf
+    Code = Code & "            Range(""BA"" & Target.Row).Value = """"" & vbCrLf
+    Code = Code & "        Case 10 'J -- Al ingresar una clave ponga el cliente" & vbCrLf
+    Code = Code & "            If Worksheets(""Hoja2"").Range(""Sucursales"").Find(What:=Range(""I"" & Target.Row).Value) Is Nothing Then" & vbCrLf
+    Code = Code & "                Range(""J"" & Target.Row).Value = """"" & vbCrLf
+    Code = Code & "                Range(""I"" & Target.Row).Select" & vbCrLf
+    Code = Code & "                MsgBox (""Debe de Seleccionar una Sucursal Primero"")" & vbCrLf
+    Code = Code & "                GoTo Fin" & vbCrLf
+    Code = Code & "            End If" & vbCrLf
+    Code = Code & "            Call Buscar_Cliente(Range(""I"" & Target.Row).Value, Range(""J"" & Target.Row).Value, Cliente, Id)" & vbCrLf
+    Code = Code & "            Range(""K"" & Target.Row).Value = Cliente" & vbCrLf
+    Code = Code & "            Range(""BA"" & Target.Row).Value = Id" & vbCrLf
+    Code = Code & "            Columns(""K:K"").EntireColumn.AutoFit" & vbCrLf
+    Code = Code & "        Case 11 'K -- Al ingresar un cliente ponga la clave" & vbCrLf
+    Code = Code & "            If Worksheets(""Hoja2"").Range(""Sucursales"").Find(What:=Range(""I"" & Target.Row).Value) Is Nothing Then" & vbCrLf
+    Code = Code & "                Range(""K"" & Target.Row).Value = """"" & vbCrLf
+    Code = Code & "                Range(""I"" & Target.Row).Select" & vbCrLf
+    Code = Code & "                MsgBox (""Debe de Seleccionar una Sucursal Primero"")" & vbCrLf
+    Code = Code & "                GoTo Fin" & vbCrLf
+    Code = Code & "            End If" & vbCrLf
+    Code = Code & "            Call Buscar_ClaveCliente(Range(""I"" & Target.Row).Value, Range(""K"" & Target.Row).Value, Clave, Id)" & vbCrLf
+    Code = Code & "            Range(""J"" & Target.Row).Value = Clave" & vbCrLf
+    Code = Code & "            Range(""BA"" & Target.Row).Value = Id" & vbCrLf
+    Code = Code & "        Case 13 'M -- Al cambiar la Hora De: Origen automáticamente en la Hora A: Origen se ponga la misma más 15 min" & vbCrLf
+    Code = Code & "            If Range(""M"" & Target.Row).Value = """" Then" & vbCrLf
+    Code = Code & "                Range(""N"" & Target.Row).Value = """"" & vbCrLf
+    Code = Code & "            Else" & vbCrLf
+    Code = Code & "                Range(""N"" & Target.Row).Value = Hour(Range(""M"" & Target.Row).Value) & "":"" & (Minute(Range(""M"" & Target.Row).Value) + 15)" & vbCrLf
+    Code = Code & "                Range(""N"" & Target.Row).NumberFormat = ""hh:mm""" & vbCrLf
+    Code = Code & "            End If" & vbCrLf
+    Code = Code & "        Case 14 'N -- En la Hora A: Origen al borrarla la Hora De: Origen se borre." & vbCrLf
+    Code = Code & "            If Range(""N"" & Target.Row).Value = """" Then" & vbCrLf
+    Code = Code & "                Range(""M"" & Target.Row).Value = """"" & vbCrLf
+    Code = Code & "            End If" & vbCrLf
+    Code = Code & "        Case 15 'O -- Al cambiar la sucursal destino borre el clave y cliente destino" & vbCrLf
+    Code = Code & "            Range(""P"" & Target.Row).Value = """"" & vbCrLf
+    Code = Code & "            Range(""Q"" & Target.Row).Value = """"" & vbCrLf
+    Code = Code & "            Range(""BB"" & Target.Row).Value = """"" & vbCrLf
+    Code = Code & "        Case 16 'P -- Al ingresar una clave destino ponga el cliente destino" & vbCrLf
+    Code = Code & "            If Worksheets(""Hoja2"").Range(""Sucursales"").Find(What:=Range(""O"" & Target.Row).Value) Is Nothing Then" & vbCrLf
+    Code = Code & "                Range(""P"" & Target.Row).Value = """"" & vbCrLf
+    Code = Code & "                Range(""O"" & Target.Row).Select" & vbCrLf
+    Code = Code & "                MsgBox (""Debe de Seleccionar una Sucursal Primero"")" & vbCrLf
+    Code = Code & "                GoTo Fin" & vbCrLf
+    Code = Code & "            End If" & vbCrLf
+    Code = Code & "            Call Buscar_Cliente(Range(""O"" & Target.Row).Value, Range(""P"" & Target.Row).Value, Cliente, Id)" & vbCrLf
+    Code = Code & "            Range(""Q"" & Target.Row).Value = Cliente" & vbCrLf
+    Code = Code & "            Range(""BB"" & Target.Row).Value = Id" & vbCrLf
+    Code = Code & "            Columns(""Q:Q"").EntireColumn.AutoFit" & vbCrLf
+    Code = Code & "        Case 17 'Q -- Al ingresar un cliente destino ponga la clave destino" & vbCrLf
+    Code = Code & "            If Worksheets(""Hoja2"").Range(""Sucursales"").Find(What:=Range(""O"" & Target.Row).Value) Is Nothing Then" & vbCrLf
+    Code = Code & "                Range(""Q"" & Target.Row).Value = """"" & vbCrLf
+    Code = Code & "                Range(""O"" & Target.Row).Select" & vbCrLf
+    Code = Code & "                MsgBox (""Debe de Seleccionar una Sucursal Primero"")" & vbCrLf
+    Code = Code & "                GoTo Fin" & vbCrLf
+    Code = Code & "            End If" & vbCrLf
+    Code = Code & "            Call Buscar_ClaveCliente(Range(""O"" & Target.Row).Value, Range(""Q"" & Target.Row).Value, Clave, Id)" & vbCrLf
+    Code = Code & "            Range(""P"" & Target.Row).Value = Clave" & vbCrLf
+    Code = Code & "            Range(""BB"" & Target.Row).Value = Id" & vbCrLf
+    Code = Code & "        Case 19 'S -- Al cambiar la Hora De: Destino automáticamente en la Hora A: Destino se ponga la misma más 15 min" & vbCrLf
+    Code = Code & "            If Range(""S"" & Target.Row).Value = """" Then" & vbCrLf
+    Code = Code & "                Range(""T"" & Target.Row).Value = """"" & vbCrLf
+    Code = Code & "            Else" & vbCrLf
+    Code = Code & "                Range(""T"" & Target.Row).Value = Hour(Range(""S"" & Target.Row).Value) & "":"" & (Minute(Range(""S"" & Target.Row).Value) + 15)" & vbCrLf
+    Code = Code & "                Range(""T"" & Target.Row).NumberFormat = ""hh:mm""" & vbCrLf
+    Code = Code & "            End If" & vbCrLf
+    Code = Code & "        Case 20 'T -- En la Hora A: Destino al borrarla la Hora De: Destino se borre." & vbCrLf
+    Code = Code & "            If Range(""T"" & Target.Row).Value = """" Then" & vbCrLf
+    Code = Code & "                Range(""S"" & Target.Row).Value = """"" & vbCrLf
+    Code = Code & "            End If" & vbCrLf
+    Code = Code & "    End Select" & vbCrLf
+    Code = Code & "    'Revisar cambios realizados" & vbCrLf
+    Code = Code & "    Call Revisar_Cambios(Target.Row)" & vbCrLf
+    Code = Code & "Fin:" & vbCrLf
+    Code = Code & "    If Application.EnableEvents = False Then" & vbCrLf
+    Code = Code & "        ActiveSheet.Protect Password:=C" & vbCrLf
+    Code = Code & "    End If" & vbCrLf
+    Code = Code & "    Application.EnableEvents = True" & vbCrLf
+    Code = Code & "End Sub" & vbCrLf
+    Code = Code & "" & vbCrLf
+    Code = Code & "Private Sub Worksheet_SelectionChange(ByVal Target As Range)" & vbCrLf
+    Code = Code & "    On Error GoTo Salir" & vbCrLf
+    Code = Code & "    Dim Fila As Integer" & vbCrLf
+    Code = Code & "    Fila = Application.WorksheetFunction.Count(Range(""A:A"")) + 2" & vbCrLf
+    Code = Code & "    'Mostrar el calendario al seleccionar la Fecha de Inicio" & vbCrLf
+    Code = Code & "    If Not Application.Intersect(Target, Range(""H3:H"" & Fila)) Is Nothing Then" & vbCrLf
+    Code = Code & "        'ahora le diremos donde queremos que aparezca el calendario" & vbCrLf
+    Code = Code & "        'para que no se quede fijo en las celdas de arriba." & vbCrLf
+    Code = Code & "        Calendar1.Left = Target.Left + Target.Width + 60" & vbCrLf
+    Code = Code & "        'para que no se nos deforme el calendario, si estamos en las últimas filas" & vbCrLf
+    Code = Code & "        'incluimos un condicional que controlará la celda donde estamos y" & vbCrLf
+    Code = Code & "        'la comparará con la última fila de la hoja de cálculo" & vbCrLf
+    Code = Code & "        If ActiveCell.Row + 20 >= Cells.Rows.Count Then" & vbCrLf
+    Code = Code & "            Calendar1.Top = Target.Top - 145" & vbCrLf
+    Code = Code & "        Else" & vbCrLf
+    Code = Code & "            Calendar1.Top = Target.Top - 50" & vbCrLf
+    Code = Code & "        End If" & vbCrLf
+    Code = Code & "        'hacemos visible el calendario" & vbCrLf
+    Code = Code & "        'Mostramos la fecha de la celda si no esta vacia la celda sino la fecha actual" & vbCrLf
+    Code = Code & "        If Cells(Target.Row, Target.Column).Value = """" Then" & vbCrLf
+    Code = Code & "            Calendar1.Today" & vbCrLf
+    Code = Code & "        Else" & vbCrLf
+    Code = Code & "            Calendar1.Value = Target.Value" & vbCrLf
+    Code = Code & "        End If" & vbCrLf
+    Code = Code & "        Calendar1.Visible = True" & vbCrLf
+    Code = Code & "    Else" & vbCrLf
+    Code = Code & "    'ocultamos el calendario, en el caso de no" & vbCrLf
+    Code = Code & "    'seleccionar una celda de la columna A" & vbCrLf
+    Code = Code & "        Calendar1.Visible = False" & vbCrLf
+    Code = Code & "    End If" & vbCrLf
+    Code = Code & "Salir:" & vbCrLf
+    Code = Code & "End Sub" & vbCrLf
+    Code = Code & "" & vbCrLf
+    Code = Code & "Private Sub Calendar1_Click()" & vbCrLf
+    Code = Code & "    'Al hacer clic en una fecha del calendario" & vbCrLf
+    Code = Code & "    'ponemos el valor en la celda donde estemos situados" & vbCrLf
+    Code = Code & "    If Calendar1.Value < Date Then" & vbCrLf
+    Code = Code & "        MsgBox ""La Fecha de Inicio no puede ser menor a la Fecha Actual.""" & vbCrLf
+    Code = Code & "    Else" & vbCrLf
+    Code = Code & "        ActiveCell = Calendar1.Value" & vbCrLf
+    Code = Code & "        'Ocultamos el calendario" & vbCrLf
+    Code = Code & "        Calendar1.Visible = False" & vbCrLf
+    Code = Code & "        ActiveCell.Select" & vbCrLf
+    Code = Code & "    End If" & vbCrLf
+    Code = Code & "End Sub" & vbCrLf
+    Code = Code & "" & vbCrLf
+    Code = Code & "Private Sub Buscar_Cliente(ByVal Sucursal As String, ByVal Clave As String, ByRef Cliente As String, ByRef Id As Integer)" & vbCrLf
+    Code = Code & "    Dim n As Range" & vbCrLf
+    Code = Code & "    If Sucursal = """" Then" & vbCrLf
+    Code = Code & "        Set n = Worksheets(""Hoja2"").Range(""ClaveCliAfectar"").Find(What:=Clave, LookAt:=xlWhole)" & vbCrLf
+    Code = Code & "        If Not n Is Nothing Then" & vbCrLf
+    Code = Code & "            Cliente = Worksheets(""Hoja2"").Range(""V"" & n.Row).Value" & vbCrLf
+    Code = Code & "            Id = Worksheets(""Hoja2"").Range(""T"" & n.Row).Value" & vbCrLf
+    Code = Code & "        End If" & vbCrLf
+    Code = Code & "    Else" & vbCrLf
+    Code = Code & "        Set n = Worksheets(""Hoja2"").Range(""ClavesEmpresas"").Find(What:=Clave, LookAt:=xlWhole)" & vbCrLf
+    Code = Code & "        If Not n Is Nothing Then" & vbCrLf
+    Code = Code & "            If Sucursal = Worksheets(""Hoja2"").Range(""D"" & n.Row).Value Then" & vbCrLf
+    Code = Code & "                Cliente = Worksheets(""Hoja2"").Range(""G"" & n.Row).Value" & vbCrLf
+    Code = Code & "                Id = Worksheets(""Hoja2"").Range(""E"" & n.Row).Value" & vbCrLf
+    Code = Code & "            End If" & vbCrLf
+    Code = Code & "        End If" & vbCrLf
+    Code = Code & "    End If" & vbCrLf
+    Code = Code & "End Sub" & vbCrLf
+    Code = Code & "" & vbCrLf
+    Code = Code & "Private Sub Buscar_ClaveCliente(ByVal Sucursal As String, ByVal Cliente As String, ByRef Clave As String, ByRef Id As Integer)" & vbCrLf
+    Code = Code & "    Dim n As Range" & vbCrLf
+    Code = Code & "    If Sucursal = """" Then" & vbCrLf
+    Code = Code & "        Set n = Worksheets(""Hoja2"").Range(""ClientesAfectar"").Find(What:=Cliente, LookAt:=xlWhole)" & vbCrLf
+    Code = Code & "        If Not n Is Nothing Then" & vbCrLf
+    Code = Code & "            Clave = Worksheets(""Hoja2"").Range(""U"" & n.Row).Value" & vbCrLf
+    Code = Code & "            Id = Worksheets(""Hoja2"").Range(""T"" & n.Row).Value" & vbCrLf
+    Code = Code & "        End If" & vbCrLf
+    Code = Code & "    Else" & vbCrLf
+    Code = Code & "        Set n = Worksheets(""Hoja2"").Range(""Empresas"").Find(What:=Cliente, LookAt:=xlWhole)" & vbCrLf
+    Code = Code & "        If Not n Is Nothing Then" & vbCrLf
+    Code = Code & "            If Sucursal = Worksheets(""Hoja2"").Range(""D"" & n.Row).Value Then" & vbCrLf
+    Code = Code & "                Clave = Worksheets(""Hoja2"").Range(""F"" & n.Row).Value" & vbCrLf
+    Code = Code & "                Id = Worksheets(""Hoja2"").Range(""E"" & n.Row).Value" & vbCrLf
+    Code = Code & "            End If" & vbCrLf
+    Code = Code & "        End If" & vbCrLf
+    Code = Code & "    End If" & vbCrLf
+    Code = Code & "End Sub" & vbCrLf
+    Code = Code & "" & vbCrLf
+    Code = Code & "Private Sub Buscar_IdCS(ByVal Clave As String, ByVal Cliente As String, ByRef Id_CS As Integer)" & vbCrLf
+    Code = Code & "    Dim n As Range" & vbCrLf
+    Code = Code & "    If Cliente = """" Then" & vbCrLf
+    Code = Code & "        Set n = Worksheets(""Hoja2"").Range(""ClaveCliAfectar"").Find(What:=Clave, LookAt:=xlWhole)" & vbCrLf
+    Code = Code & "    Else" & vbCrLf
+    Code = Code & "        Set n = Worksheets(""Hoja2"").Range(""ClientesAfectar"").Find(What:=Cliente, LookAt:=xlWhole)" & vbCrLf
+    Code = Code & "    End If" & vbCrLf
+    Code = Code & "    If Not n Is Nothing Then Id_CS = Worksheets(""Hoja2"").Range(""W"" & n.Row).Value" & vbCrLf
+    Code = Code & "End Sub" & vbCrLf
+    Code = Code & "" & vbCrLf
+    Code = Code & "Private Sub Revisar_Cambios(ByVal Fila As Integer)" & vbCrLf
+    Code = Code & "    If Range(""A"" & Fila).Value = 0 And Range(""B"" & Fila).Value = 0 And Range(""C"" & Fila).Value = 0 Then Exit Sub 'Significa que es un Registro Nuevo" & vbCrLf
+    Code = Code & "" & vbCrLf
+    Code = Code & "    If Range(""G"" & Fila).Value <> Range(""AG"" & Fila).Value Or Range(""I"" & Fila).Value <> Range(""AI"" & Fila).Value Or _" & vbCrLf
+    Code = Code & "    Range(""J"" & Fila).Value <> Range(""AJ"" & Fila).Value Or Range(""K"" & Fila).Value <> Range(""AK"" & Fila).Value Or _" & vbCrLf
+    Code = Code & "    Range(""L"" & Fila).Value <> Range(""AL"" & Fila).Value Or Range(""M"" & Fila).Value <> Range(""AM"" & Fila).Value Or _" & vbCrLf
+    Code = Code & "    Range(""N"" & Fila).Value <> Range(""AN"" & Fila).Value Or Range(""O"" & Fila).Value <> Range(""AO"" & Fila).Value Or _" & vbCrLf
+    Code = Code & "    Range(""P"" & Fila).Value <> Range(""AP"" & Fila).Value Or Range(""Q"" & Fila).Value <> Range(""AQ"" & Fila).Value Or _" & vbCrLf
+    Code = Code & "    Range(""R"" & Fila).Value <> Range(""AR"" & Fila).Value Or Range(""S"" & Fila).Value <> Range(""AS"" & Fila).Value Or _" & vbCrLf
+    Code = Code & "    Range(""T"" & Fila).Value <> Range(""AT"" & Fila).Value Or Range(""U"" & Fila).Value <> Range(""AU"" & Fila).Value Or _" & vbCrLf
+    Code = Code & "    Range(""V"" & Fila).Value <> Range(""AV"" & Fila).Value Then " & vbCrLf
+    Code = Code & "        Range(""BD"" & Fila).Value = ""EDITADO""" & vbCrLf
+    Code = Code & "    Else" & vbCrLf
+    Code = Code & "        Range(""BD"" & Fila).Value = """"" & vbCrLf
+    Code = Code & "    End If" & vbCrLf
+    Code = Code & "End Sub"
+
+    Set Sht = Sheets("Horarios")
+
+    AddCode Sht, Code
+    Application.EnableEvents = True
+End Sub
+
+Sub Macro_CrearCalendario()
+    ActiveSheet.Unprotect Password:=Excel.ActiveWorkbook.Sheets(2).Range("$A$10").Value
+
+    On Error GoTo SegundoIntento
+    ActiveSheet.OLEObjects.Add(ClassType:="MSCAL.Calendar.7", Link:=False, _
+        DisplayAsIcon:=False, Left:=480, Top:=30, Width:=215.25, Height:= _
+        143.25).Select
+    Selection.Visible = False
+    ActiveSheet.Protect Password:=Excel.ActiveWorkbook.Sheets(2).Range("$A$10").Value
+    Exit Sub
+    
+SegundoIntento:
+    On Error GoTo Salir
+    ActiveSheet.OLEObjects.Add(ClassType:="MSCAL.Calendario.7", Link:=False, _
+        DisplayAsIcon:=False, Left:=480, Top:=30, Width:=215.25, Height:= _
+        143.25).Select
+    Selection.Visible = False
+    ActiveSheet.Protect Password:=Excel.ActiveWorkbook.Sheets(2).Range("$A$10").Value
+
+Salir:
+End Sub

@@ -1,0 +1,577 @@
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CapturarDestino.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CuentasModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CajasBancarias.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesBaja.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesProceso.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_GenerarCarta.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Reporte.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ContactosModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_TEFModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Clientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Splash.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidarCartas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CapturarDestino.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CuentasModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CajasBancarias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesBaja.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_GenerarCarta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Reporte.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ContactosModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_TEFModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Clientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Splash.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidarCartas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\bin\Release\Modulo Ventas.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo Ventas.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo Ventas.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\bin\Release\Modulo Ventas.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\bin\Release\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\bin\Release\Modulo Ventas.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\bin\Release\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\bin\Release\Modulo Ventas.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CapturarDestino.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CuentasModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasBancarias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesBaja.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GenerarCarta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Reporte.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ContactosModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_TEFModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Clientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidarCartas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo Ventas.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo Ventas.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\bin\Release\Modulo Ventas.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\bin\Release\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\bin\Release\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\bin\Release\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\bin\Release\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\bin\Release\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CapturarDestino.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CuentasModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasBancarias.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesBaja.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesProceso.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GenerarCarta.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Reporte.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ContactosModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_TEFModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Clientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidarCartas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo Ventas.TrustInfo.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\obj\Release\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Instancias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_VerMensajes.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\bin\Release\Modulo Ventas.exe.config
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\bin\Release\Modulo Ventas.exe.manifest
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\bin\Release\Modulo Ventas.application
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\bin\Release\Modulo Ventas.exe
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\bin\Release\Modulo Ventas.pdb
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\bin\Release\Modulo Ventas.xml
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.vbproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CapturarDestino.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Instancias.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CuentasModal.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasBancarias.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesBaja.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesProceso.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GenerarCarta.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Reporte.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ContactosModal.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_TEFModal.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_About.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Clientes.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesModal.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginContra.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Login.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_MENU.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_VerMensajes.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.Resources.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidarCartas.resources
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo Ventas.TrustInfo.xml
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo Ventas.exe.manifest
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo Ventas.application
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo Ventas.exe
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo Ventas.xml
+C:\Users\Administrador\Documents\Publico\Modulo_Ventas\obj\Release\Modulo Ventas.pdb
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\ResolveAssemblyReference.cache
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CapturarDestino.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Instancias.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CuentasModal.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasBancarias.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesBaja.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesProceso.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GenerarCarta.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Reporte.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ContactosModal.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_TEFModal.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_About.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Clientes.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesModal.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginContra.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Login.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_MENU.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_VerMensajes.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.Resources.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidarCartas.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo Ventas.exe
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo Ventas.xml
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo Ventas.pdb
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\bin\Release\Modulo Ventas.exe.config
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\bin\Release\Modulo Ventas.exe.manifest
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\bin\Release\Modulo Ventas.application
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\bin\Release\Modulo Ventas.exe
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\bin\Release\Modulo Ventas.pdb
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\bin\Release\Modulo Ventas.xml
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo Ventas.TrustInfo.xml
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo Ventas.exe.manifest
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo Ventas.application
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Agenda.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Cita.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Cotizaciones.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteFallas.resources
+C:\SIAC\Modulo_Ventas\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Agenda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Cita.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Cotizaciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteFallas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\bin\Release\Modulo Ventas.exe.config
+C:\SIAC\CodigoFuente\Modulo_Ventas\bin\Release\Modulo Ventas.exe.manifest
+C:\SIAC\CodigoFuente\Modulo_Ventas\bin\Release\Modulo Ventas.application
+C:\SIAC\CodigoFuente\Modulo_Ventas\bin\Release\Modulo Ventas.exe
+C:\SIAC\CodigoFuente\Modulo_Ventas\bin\Release\Modulo Ventas.pdb
+C:\SIAC\CodigoFuente\Modulo_Ventas\bin\Release\Modulo Ventas.xml
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\ResolveAssemblyReference.cache
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Agenda.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CapturarDestino.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Cita.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Cotizaciones.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Instancias.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Mapas.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Outlook.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteFallas.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CuentasModal.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasBancarias.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesBaja.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesProceso.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GenerarCarta.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Reporte.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ContactosModal.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_TEFModal.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_About.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Clientes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesModal.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginContra.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Login.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_MENU.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_VerMensajes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.Resources.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidarCartas.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo Ventas.TrustInfo.xml
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo Ventas.exe.manifest
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo Ventas.application
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo Ventas.exe
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo Ventas.xml
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo Ventas.pdb
+C:\SIAC\Modulo_Ventas\bin\Release\Modulo Ventas.exe.config
+C:\SIAC\Modulo_Ventas\bin\Release\Modulo Ventas.exe.manifest
+C:\SIAC\Modulo_Ventas\bin\Release\Modulo Ventas.application
+C:\SIAC\Modulo_Ventas\bin\Release\Modulo Ventas.exe
+C:\SIAC\Modulo_Ventas\bin\Release\Modulo Ventas.pdb
+C:\SIAC\Modulo_Ventas\bin\Release\Modulo Ventas.xml
+C:\SIAC\Modulo_Ventas\obj\Release\ResolveAssemblyReference.cache
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Agenda.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertes.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CapturarDestino.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Cita.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Cotizaciones.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_IndicadorAltaBajaEmpleados.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Instancias.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Mapas.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Outlook.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteFallas.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CuentasModal.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasBancarias.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesBaja.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesProceso.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GenerarCarta.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Reporte.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ContactosModal.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_TEFModal.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_About.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Clientes.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesModal.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginContra.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Login.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_MENU.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_VerMensajes.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.Resources.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidarCartas.resources
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo Ventas.TrustInfo.xml
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo Ventas.exe.manifest
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo Ventas.application
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo Ventas.exe
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo Ventas.xml
+C:\SIAC\Modulo_Ventas\obj\Release\Modulo Ventas.pdb
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteFallasConsultar.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_VisorImagenes.resources
+C:\SIAC\CodigoFuente\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_MensajeAlerta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\bin\Release\Modulo Ventas.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo Ventas.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo Ventas.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\bin\Release\Modulo Ventas.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\bin\Release\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\bin\Release\Modulo Ventas.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\bin\Release\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\bin\Release\Modulo Ventas.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_MensajeAlerta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Agenda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CapturarDestino.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Cita.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Cotizaciones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Instancias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Mapas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Outlook.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteFallas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteFallasConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CuentasModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasBancarias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesBaja.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GenerarCarta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Reporte.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ContactosModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_TEFModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Clientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_VerMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_VisorImagenes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidarCartas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo Ventas.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo Ventas.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Ventas\obj\Release\Modulo Ventas.application
+C:\SIAC\Modulos\Modulo_Ventas\bin\Release\Modulo Ventas.exe.config
+C:\SIAC\Modulos\Modulo_Ventas\bin\Release\Modulo Ventas.exe.manifest
+C:\SIAC\Modulos\Modulo_Ventas\bin\Release\Modulo Ventas.application
+C:\SIAC\Modulos\Modulo_Ventas\bin\Release\Modulo Ventas.exe
+C:\SIAC\Modulos\Modulo_Ventas\bin\Release\Modulo Ventas.pdb
+C:\SIAC\Modulos\Modulo_Ventas\bin\Release\Modulo Ventas.xml
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\ResolveAssemblyReference.cache
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ActaInspeccionDetalle.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ActaInspeccionValidar.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ActaInspeccion.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ActaInspeccionConsulta.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_AlertasConsultas.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Ayuda.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_BuscarSubClientes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertesMovValidar.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CargarArchivos.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesActualizar.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesHorarios.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesModal.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaClientesBaja.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaClientesListaNegra.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_DescargarArchivo.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_DoctosRequeridos.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_MensajeAlerta.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ModificarOrigenDestino.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteContratoXSistema.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteFallasI.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Agenda.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_AtencionLlamadas.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_BajaCajaFuerte.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertesD.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertesMov.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasFuertesT.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CapturarDestino.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Cita.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConceptosFproceso.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaCajasFuertes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaCajasFuertesM.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaClientes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaWeb.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Cotizaciones.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_EnviarMensajes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Instancias.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_InstanciasEmpleados.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Mapas.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Outlook.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteFallas.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ReporteFallasS.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaLlamadas.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CuentasModal.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_CajasBancarias.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesBaja.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ClientesProceso.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GenerarCarta.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Reporte.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ContactosModal.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_TEFModal.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_About.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Clientes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginContra.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_Login.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_MENU.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_VerMensajes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_VisorImagenes.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.Resources.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.frm_ValidarCartas.resources
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo_Ventas.vbproj.GenerateResource.Cache
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo Ventas.TrustInfo.xml
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo Ventas.exe.manifest
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo Ventas.application
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo Ventas.exe
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo Ventas.xml
+C:\SIAC\Modulos\Modulo_Ventas\obj\Release\Modulo Ventas.pdb

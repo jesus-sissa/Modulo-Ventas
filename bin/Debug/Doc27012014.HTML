@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name='viewport' content='initial-scale=1.0, user-scalable=no'>
+<meta charset='utf-8'>
+<title>Marcadores y Puntos</title>
+<style>
+html, body, #map-canvas {
+height: 100%;
+margin: 0px;
+padding: 0px
+}
+</style>
+<script src='http://maps.googleapis.com/maps/api/js?key=AIzaSyA6CoAsABBo2hDDGVZleYm54XcJ0R9vgjk&sensor=false'></script>
+<script>
+function initialize() {
+var mapOptions = {
+zoom: 11,
+center: new google.maps.LatLng(25.678500,-100.323760),
+mapTypeId:  'hybrid'
+};
+var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+var marker = new google.maps.Marker({
+position: new google.maps.LatLng(25.778290,-100.186050),
+map: map,
+title:'492-2'
+})
+var marker = new google.maps.Marker({
+position: new google.maps.LatLng(25.640160,-100.285600),
+map: map,
+title:'492-4'
+})
+var marker = new google.maps.Marker({
+position: new google.maps.LatLng(25.665880,-100.380710),
+map: map,
+title:'492-3'
+})
+var marker = new google.maps.Marker({
+position: new google.maps.LatLng(25.731090,-100.397000),
+map: map,
+title:'492-1'
+})
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+</head>
+<body>
+<div id='map-canvas'></div>
+</body>
+</html>

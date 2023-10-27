@@ -1,0 +1,417 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ModuloVentas
+</name>
+</assembly>
+<members>
+<member name="F:Modulo_Ventas.frm_CargarArchivos.Filtro">
+	<summary> Filtro para que sólo se seleccione ciertos tipos de Archivos, Ejemplo: "Documento de Word (*.Doc)|*.Doc|Archivo PDF(*.Pdf)|*.Pdf" </summary>
+</member><member name="F:Modulo_Ventas.frm_CargarArchivos.MaxArchivos">
+	<summary> El Máximo de Archivos Aceptados </summary>
+</member><member name="F:Modulo_Ventas.frm_CargarArchivos.Id_Tabla">
+	<summary> El ID del Registro de la Tabla Principal </summary>
+</member><member name="F:Modulo_Ventas.frm_CargarArchivos.Tipo">
+	<summary> El Tipo de Archivo con relación a al Procedimiento, Ejemplo: Empleados, Clientes, Cajas Fuertes, etc. </summary>
+</member><member name="F:Modulo_Ventas.frm_CargarArchivos.DescripcionEnable">
+	<summary> Sirve para Activar o Desactivar el Campo Descripción. </summary>
+</member><member name="F:Modulo_Ventas.frm_CargarArchivos.TamañoMaxImagen">
+	<summary> Es el Tamaño Máximo a guardar de las Imagenes (valor en bytes y por default esta a 204800, es decir, 200 Kb). </summary>
+</member><member name="F:Modulo_Ventas.frm_CargarArchivos.TamañoMaxArchivo">
+	<summary> Es el Tamaño Máximo a guardar de cualquier Archivo (valor en bytes y por default esta a 512000, es decir, 500 Kb). </summary>
+</member><member name="F:Modulo_Ventas.frm_CargarArchivos.CantidaArchivos">
+	<summary> Es la Cantidad de Archivos que fueron agregados. (sirve sólo de referencia) </summary>
+</member><member name="F:Modulo_Ventas.frm_CargarArchivos.TagPosicion">
+	<summary> Es el Tag del ListViewItem que guarda la Posición en el Arreglo. </summary>
+</member><member name="F:Modulo_Ventas.frm_CargarArchivos.Cont">
+	<summary> Es la posición siguiente para guardar en el Arreglo. </summary>
+</member><member name="M:Modulo_Ventas.frm_CargarArchivos.CargarLista">
+	<summary> Cargar el Listview con la Información del Arreglo. </summary>
+</member><member name="M:Modulo_Ventas.frm_CargarArchivos.BuscarArchivo">
+	<summary> Sirve para seleccionar el Archivo. </summary>
+</member><member name="M:Modulo_Ventas.frm_CargarArchivos.ValidarMaximo">
+	<summary> Valida si ya se encuentran agregados el Máximo de Arhivos. </summary>
+</member><member name="M:Modulo_Ventas.frm_CargarArchivos.ReadFile(System.String)">
+	<summary> Convertir el Archivo a Arreglo de Bytes. </summary>
+</member><member name="M:Modulo_Ventas.frm_TEFModal.TEF_LimpiarCasillas">
+	<summary>
+ Limpia los valores de todas las casillas de la pestaña Horarios
+ </summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.tbl_ServiciosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_HorariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.tbl_CartaAumentoDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_CajasFuertesMovDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_ReciboCombinacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_CajasFuertesBajasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_ActaInspeccionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.tbl_ServiciosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_HorariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.tbl_CartaAumentoDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_CajasFuertesMovRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_ReciboCombinacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_CajasFuertesBajasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_ActaInspeccionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.tbl_ServiciosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_HorariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.tbl_CartaAumentoDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_CajasFuertesMovRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_ReciboCombinacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_CajasFuertesBajasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte.Tbl_ActaInspeccionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Reporte">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="M:Modulo_Ventas.frm_ClientesProceso.ComboSiNo(Modulo_Ventas.cp_cmb_Manual)">
+	<summary>
+ Agrega los valores si y no a un combo
+ </summary>
+	<param name="cmb">Es el combo al que se le van a agregar los valores</param>
+</member><member name="M:Modulo_Ventas.frm_ClientesProceso.LimpiarFicha1">
+	<summary>
+ Limpia todas las casilas de la ficha 1
+ </summary>
+</member><member name="M:Modulo_Ventas.frm_ClientesProceso.LimpiarParcialFicha1">
+	<summary>
+ Limpia solo las casillas que se ven afectadas al cambiar la casilla del cliente
+ </summary>
+</member><member name="M:Modulo_Ventas.frm_ClientesProceso.ValidarFicha1">
+	<summary>
+ Valida que no existan casillas vacias en la ficha 1
+ </summary>
+</member><member name="F:Modulo_Ventas.frm_Clientes.Tipo">
+	<summary> Tipo es cuando se seleccione en el Radiobutton de Cliente o Prospecto </summary>
+</member><member name="P:Modulo_Ventas.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Modulo_Ventas.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:Modulo_Ventas.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="P:Modulo_Ventas.cp_cmb_SimpleFiltradoParam.Pista">
+	<summary>
+ Indica si se envia o no el parametro  @Pista
+ </summary>
+</member><member name="P:Modulo_Ventas.cp_cmb_SimpleFiltradoParam.Empresa">
+	<summary>
+ Indica si se va a enviar la variable global Empresa al StoredProcedure
+ </summary>
+</member><member name="P:Modulo_Ventas.cp_cmb_SimpleFiltradoParam.Sucursal">
+	<summary>
+ Indica si se va a enviar o no la variable global sucursal al stored procedure
+ </summary>
+</member><member name="M:Modulo_Ventas.cp_cmb_SimpleFiltradoParam.Actualizar">
+	<summary>
+ Actualiza el contenido del combo utilizando el stored procedure
+ </summary>
+	<remarks>'si requiere la sucursal hay que marcar sucursal como true</remarks>
+</member><member name="M:Modulo_Ventas.cp_cmb_SimpleFiltradoParam._Filtro_TextChanged(System.Object,System.EventArgs)">
+	<summary>
+ busca el valor del textbox en la columna clave
+ </summary>
+</member><member name="M:Modulo_Ventas.cp_cmb_SimpleFiltradoParam.cp_cmb_SimpleFiltrado_SelectedIndexChanged(System.Object,System.EventArgs)">
+	<summary>
+ escribe en el filtro el numero de clave que se ha seleccionado
+ </summary>
+</member><member name="T:Modulo_Ventas.ds_Clientes.ComboSourceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Clientes.Tbl_CartaAumentoDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Clientes.ComboSourceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Clientes.Tbl_CartaAumentoDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Clientes.ComboSourceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Clientes.Tbl_CartaAumentoDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Modulo_Ventas.ds_Clientes">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="M:Modulo_Ventas.frm_CatalogoCuentas.CreaTbl_Referencias">
+	<summary>
+ Aqui se crea la tabla de referencias
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Modulo_Ventas.frm_CatalogoCuentas.ActualizarReferencias">
+	<summary>
+ Actualiza los valores de la lista lsv_2_Referencia de acuerdo a la tabla Tbl_Referencias
+ </summary>
+</member><member name="M:Modulo_Ventas.FuncionesGlobales.LlenarMinutos(System.Int32,Modulo_Ventas.cp_cmb_Manual)">
+	<summary>
+ Sirve para llenar un combo con intervalos de minutos definidos
+ </summary>
+	<param name="Minutos">Es el numero de minutos que se van a avanzar con cada ciclo</param>
+	<param name="combo">es el combo que se va a llentar</param>
+</member><member name="M:Modulo_Ventas.FuncionesGlobales.fn_Buscar_enListViewPredict(System.Windows.Forms.ListView@,System.String,System.Int32)">
+	<summary>
+ Para Buscar en una lista pero que los elementos buscados
+ estén en la posición inicial, o sea, que el elemento de la lista
+ empiese por lo escrito en el textbox
+ </summary>
+</member><member name="M:Modulo_Ventas.frm_ClientesModal.Horarios_LimpiarCasillas">
+	<summary>
+ Limpia los valores de todas las casillas de la pestaña Horarios
+ </summary>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_Horarios_Crear(System.Int32,System.DateTime,System.Char,System.Char,System.Int32,System.String,System.Int32,System.String,System.Int32,System.Char,System.Char,System.Char,System.Int32,System.String,System.Char,System.String,System.Int32,System.Int32,System.Int32,System.Data.DataTable)">
+	<summary>
+ Da de alta un nuevo horario de servicio
+ </summary>
+	<param name="Id_CS">Es el id del servicio</param>
+	<param name="Fecha_Inicio">Es la fecha en la que se inicia el servicio</param>
+	<param name="Tipo_Frecuencia">
+ Es S, Q, M dependiendo si es 
+ Semanal = 1 Semana
+ Quincenal = 2 Semanas
+ Mensual = 4 Semanad
+ </param>
+	<param name="Frecuencia">Es el numero del dia que se realiza el servicio</param>
+	<param name="Cliente_Origen">El el id del cliente de origen</param>
+	<param name="H_Recoleccion">Es la hora de recoleccion</param>
+	<param name="Cliente_Destino">Es el id del cliente en donde se entrega</param>
+	<param name="H_Entrega">Es la hora en la que se entrega</param>
+	<param name="Id_Ruta">Es el Id de la ruta</param>
+	<param name="Escala_Boveda">S / N Indica si la ruta hace escala en la boveda</param>
+	<param name="Mismo_Dia">S / N Indica si se entrega el mismo dia</param>
+	<param name="Dia_Entrega">Es el numero de dia que se realiza la entrega dependiendo de la casilla anterior</param>
+	<param name="Id_RutaE">Es el id de la ruta de entrega</param>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_Horarios_Actualizar(System.Int32,System.DateTime,System.Char,System.Char,System.Int32,System.String,System.Int32,System.String,System.Int32,System.Char,System.Char,System.Char,System.Int32,System.Int32,System.Data.DataTable,System.Char)">
+	<summary>
+ Da de alta un nuevo horario de servicio
+ </summary>
+	<param name="Id">Es el id del registro que se va a actualizar</param>
+	<param name="Fecha_Inicio">Es la fecha en la que se inicia el servicio</param>
+	<param name="Tipo_Frecuencia">
+ Es S, Q, M dependiendo si es 
+ Semanal = 1 Semana
+ Quincenal = 2 Semanas
+ Mensual = 4 Semanad
+ </param>
+	<param name="Frecuencia">Es el numero del dia que se realiza el servicio</param>
+	<param name="Cliente_Origen">El el id del cliente de origen</param>
+	<param name="H_Recoleccion">Es la hora de recoleccion</param>
+	<param name="Cliente_Destino">Es el id del cliente en donde se entrega</param>
+	<param name="H_Entrega">Es la hora en la que se entrega</param>
+	<param name="Id_Ruta">Es el Id de la ruta</param>
+	<param name="Escala_Boveda">S / N Indica si la ruta hace escala en la boveda</param>
+	<param name="Mismo_Dia">S / N Indica si se entrega el mismo dia</param>
+	<param name="Dia_Entrega">Es el numero de dia que se realiza la entrega dependiendo de la casilla anterior</param>
+	<param name="Id_RutaE">Es el id de la ruta de entrega</param>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_Horarios_Hijos(System.Int32)">
+	<summary>
+ Obtiene todos Hijos de un cliente
+ </summary>
+	<param name="Id_CS">Es el servicio</param>
+	<returns>Devuelve un Datatable con todos los servicios y Clientes</returns>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_TEF_Crear(System.Int32,System.Int32,System.String,System.String)">
+	<summary>
+ Crea una nueva transferencia
+ </summary>
+	<param name="Id_Cliente">Es el id de Cat_Clientes</param>
+	<param name="Id_CuentaPago">Es el Id de Cat_SucursalesCuentas</param>
+	<param name="Referencia">Es el numero de referencia</param>
+	<param name="Observaciones">Son los comentarios</param>
+	<returns>Devuelve true si se inserta una fila</returns>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_TEF_Eliminar(System.Int32,System.Int32)">
+	<summary>
+ Elimina un registro de la bas de datos
+ </summary>
+	<param name="Id">Es el registro que desea eliminar</param>
+	<param name="Id_Cliente">Es el id del cliente</param>
+	<returns>Devuelve true si se elimino algun registro</returns>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_TEF_ValidarCuenta(System.Int32,System.Int32)">
+	<summary>
+ Valida si existe la cuenta
+ </summary>
+	<param name="Id_Cuenta">Es el numero de cuenta que se va a verificas</param>
+	<param name="Id_Cliente">Es el numero de cliente donde se va a buscar la cuenta</param>
+	<returns>Devuelve true si no existe la cuenta</returns>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_Admin_LlenarLista(System.Int32,System.Int32,Modulo_Ventas.cp_Listview@)">
+	<summary>
+ Llena una lista con valores de la tabla cat_clientesAdminHorarios
+ </summary>
+	<param name="Id_Cliente">Es el id del cliente</param>
+	<param name="Tipo">1=Recepcion Facturas; 2=Pago Facturas</param>
+	<param name="lsv">Es la lista que se va a llenar de datos</param>
+	<returns>Devuelve false en caso de error</returns>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_Admin_CrearHorario(System.Int32,System.Int32,System.Char,System.String)">
+	<summary>
+ Agrega un nuevo horario a la tabla Cat_ClientesAdminHorarios
+ </summary>
+	<param name="Id_Cliente">Es el id del cliente</param>
+	<param name="Tipo">1=Recepcion Facturas; 2=Pago Facturas</param>
+	<param name="Frecuencia">Es el numero del dia al que pertenece el horario</param>
+	<param name="Horario">es un rango de horas en el que se puede realizar</param>
+	<returns>Devuelve true si se inserta alguna fila</returns>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_Admin_Eliminar(System.Int32)">
+	<summary>
+ Elimina un registro de la tabla Cat_ClientesAdminHorarios
+ </summary>
+	<param name="Id">Es el registro que desea eliminar</param>
+	<returns>Devuelve true si se elimino algun registro</returns>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_BuscarClientes_LlenarLista(Modulo_Ventas.cp_Listview,System.Boolean,System.Int32,System.Boolean)">
+	<summary>
+ Llena la lista lsv_Clientes
+ </summary>
+	<returns>Devuelve true en caso de que se haya hecho correctamente la acutalizacion</returns>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_Clientes_BajaHorario(System.Int32,System.Char)">
+	<summary>
+ cambia el status de un registro de la tabla cat_ClientesHorariosTemp
+ </summary>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_Clientes_BorraHorarioTemp(System.Int32)">
+	<summary>
+ elimina un registro de la tabla cat_ClientesHorariosTemp
+ </summary>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_CajasBancarias_LlenarLista(Modulo_Ventas.cp_Listview)">
+	<summary>
+ Llena una lista de la tabla Pro_CajasBancarias
+ </summary>
+	<param name="lsv">Es la lista que se va a llenar</param>
+	<returns>Devuelve true en caso de que se haya hecho correctamente la acutalizacion</returns>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_CajasBancarias_Crear(System.Int32,System.Int32)">
+	<summary>
+ Da de alta un nuevo registro en la tabla Pro_CajasBancarias
+ </summary>
+	<param name="Id_Banco">Es el Id del banco</param>
+	<param name="Id_Cliente">Es el id del cliente</param>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_CajasBancarias_Actualizar(System.Int32,System.Int32)">
+	<summary>
+ Actualiza un registro en la tabla Pro_CajasBancarias
+ </summary>
+	<param name="Id">Es el id del registro que se va a actualizar</param>
+	<param name="Id_banco">Es el id del banco</param>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_CajasBancarias_ValidarDependencias(System.Int32)">
+	<summary>
+ Verifica que no existan dependencias antes de dar de baja un registro
+ </summary>
+	<param name="Id">es el registro que se quiere dar de baja</param>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_CajasBancarias_Status(System.Int32,System.Char)">
+	<summary>
+ Cambia el status de un registro segun corresponda
+ </summary>
+	<param name="Id">Es el id del registro</param>
+	<param name="Status">Es el status que se quiere asugnar</param>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_CajasBancarias_Leer(System.Int32)">
+	<summary>
+ Obtiene todos los valores de un registro de la tabla Pro_CajasBancarias
+ </summary>
+	<param name="Id">Es el id del registro</param>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_ClientesProceso_LlenarLista(Modulo_Ventas.cp_Listview,System.Int32,System.Int32,System.Boolean)">
+	<summary>
+ Llena una lista de la tabla Cat_ClientesProceso
+ </summary>
+	<param name="lsv">Es la lista que se va a llenar</param>
+	<returns>Devuelve true en caso de que se haya hecho correctamente la acutalizacion</returns>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_ClientesProceso_Crear(System.Int32,System.Int32,System.String,System.String,System.String,System.Int32,System.Int32,System.Int32,System.String,System.Char,System.Int32,System.Int32)">
+	<summary>
+ Da de alta un nuevo registro en la tabla Cat_ClientesProceso
+ </summary>
+	<param name="Clave_Cliente">Es la clave del cliente</param>
+	<param name="Direccion_Comercial">Es la Direccion del cliente</param>
+	<param name="Id_CajaBancaria">Es el id de la tabla caja bancaria</param>
+	<param name="Id_Ciudad">Es el id de la ciudad</param>
+	<param name="Id_Cliente">Es el id del cliente</param>
+	<param name="Id_Grupo">Es el id del grupo</param>
+	<param name="Nombre_Comercial">Es el nombre comercial</param>
+	<param name="Numero_Contrato">Es el numero del contrato</param>
+	<param name="Requiere_Cuenta">Es un campo S / N que indica si el cliente tiene cuentas</param>
+</member><member name="M:Modulo_Ventas.Cn_Clientes.fn_ClientesProceso_Modificar(System.Int32,System.Int32,System.Int32,System.String,System.String,System.String,System.Int32,System.Int32,System.Int32,System.String,System.Char,System.Int32,System.Int32)">
+	<summary>
+ Modifica registro en la tabla Cat_ClientesProceso
+ </summary>
+	<param name="Clave_Cliente">Es la clave del cliente</param>
+	<param name="Direccion_Comercial">Es la Direccion del cliente</param>
+	<param name="Id_CajaBancaria">Es el id de la tabla caja bancaria</param>
+	<param name="Id_Ciudad">Es el id de la ciudad</param>
+	<param name="Id_Cliente">Es el id del cliente</param>
+	<param name="Id_Grupo">Es el id del grupo</param>
+	<param name="Nombre_Comercial">Es el nombre comercial</param>
+	<param name="Numero_Contrato">Es el numero del contrato</param>
+	<param name="Requiere_Cuenta">Es un campo S / N que indica si el cliente tiene cuentas</param>
+</member>
+</members>
+</doc>

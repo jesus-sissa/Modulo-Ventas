@@ -1,0 +1,162 @@
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\bin\Release\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\bin\Release\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\bin\Release\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo Ventas.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Clientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Splash.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo Ventas.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CajasBancarias.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesProceso.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_TEFModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesBaja.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_GenerarCarta.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidarCartas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Reporte.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_RutasModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ContactosModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Release\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Release\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Release\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Release\office.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo Ventas.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CuentasModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CajasBancarias.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesBaja.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesProceso.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_GenerarCarta.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Reporte.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ContactosModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_TEFModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Clientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Splash.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidarCartas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo Ventas.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CuentasModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CajasBancarias.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesBaja.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesProceso.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_GenerarCarta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Reporte.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ContactosModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_TEFModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Clientes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesModal.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Splash.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidarCartas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\bin\Release\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_DocumentosRequeridos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidaProspectos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ProspectoaClientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CatalogoCuentas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CuentasModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_NuevoProspecto.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.Frm_BuscarCliente.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_CajasBancarias.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesBaja.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesProceso.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ConsultaPuntos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_GenerarCarta.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_GruposFacturacion.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Reporte.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ContactosModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_TEFModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Clientes.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ClientesModal.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Splash.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidaHorarios.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo_Ventas.frm_ValidarCartas.resources
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.application
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.exe
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.xml
+C:\Documents and Settings\Administrador\Mis documentos\Sirc\Modulo_Ventas\Modulo Ventas\obj\Release\Modulo Ventas.pdb

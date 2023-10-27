@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.1//EN' 'http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml' >
+<head>
+    <title>Mapa</title>
+    <script type='text/javascript' src='http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=6.2'></script>
+    <script type='text/javascript'>
+            var map = null;
+
+            function GetMap() {
+                var latitud = document.getElementById('latitud');
+                var longitud = document.getElementById('longitud');
+
+
+                map = new VEMap('myMap');
+                map.LoadMap(new VELatLong(latitud.value, longitud.value), 12, 'r', false, VEMapMode.Mode2D, true);
+                map.HideDashboard();
+
+                layer = new VEShapeLayer();
+                map.AddShapeLayer(layer);
+
+            }
+            function agregarPin() {
+                var latitud = document.getElementById('tbx_Latitud');
+                var longitud = document.getElementById('tbx_Longitud');
+                var nombre = document.getElementById('tbx_Nombre');
+                var descripcion = document.getElementById('tbx_Descripcion');
+
+                var shape = new VEShape(VEShapeType.Pushpin, new VELatLong(latitud.value, longitud.value));
+                shape.SetTitle(nombre.value);
+                shape.SetDescription(descripcion.value);
+                layer.AddShape(shape);
+
+                return false;
+            }
+            function Acercar() {
+                map.ZoomIn();
+                return false;
+            }
+            function Alejar() {
+                map.ZoomOut();
+                return false;
+            }
+            function CambiarVista() {
+                var s = map.GetMapStyle();
+                if (s == VEMapStyle.Hybrid) {
+                    map.SetMapStyle(VEMapStyle.Road);
+                } else {
+                    map.SetMapStyle(VEMapStyle.Hybrid);
+                }
+                return false;
+            }
+    </script>
+</head>
+<body onload='GetMap();'>
+    <form id='form1' runat='server'>
+    <input type='hidden' id='latitud' value='25.694582' />
+    <input type='hidden' id='longitud' value='-100.261163' />
+    <table>
+        <tr>
+            <td>
+                <input type='button' id='btn_ZoomOut' value='-' onclick='return Alejar();' />
+            </td>
+            <td>
+                <input type='button' id='btn_ZoomIn' value='+' onclick='return Acercar();' />
+            </td>
+            <td>
+                <input type='button' id='btn_Vista' value='Cambiar Vista' onclick='return CambiarVista();' />
+            </td>
+        </tr>
+    </table>
+      <div id='myMap' style='position:relative; width:100%; height:600px;' />
+    </form>
+</body>
+</html>
