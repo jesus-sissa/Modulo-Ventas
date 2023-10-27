@@ -4797,3 +4797,4 @@ C:\Users\jesus.ortega\Desktop\Source developer\Modulo_Ventas\obj\x86\Debug\Modul
 C:\Users\jesus.ortega\Desktop\Source developer\Modulo_Ventas\obj\x86\Debug\Modulo Ventas.exe
 C:\Users\jesus.ortega\Desktop\Source developer\Modulo_Ventas\obj\x86\Debug\Modulo Ventas.xml
 C:\Users\jesus.ortega\Desktop\Source developer\Modulo_Ventas\obj\x86\Debug\Modulo Ventas.pdb
+D:\REPOSITORY\SOURCE CODE\Modulo_Ventas\obj\x86\Debug\Modulo_Ventas.Frm_RazonSocialExternos.resources
