@@ -22,7 +22,7 @@ Partial Class Frm_RazonSocialExternos
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Dim ListViewColumnSorter4 As Modulo_Ventas.ListViewColumnSorter = New Modulo_Ventas.ListViewColumnSorter()
+        Dim ListViewColumnSorter1 As Modulo_Ventas.ListViewColumnSorter = New Modulo_Ventas.ListViewColumnSorter()
         Me.btn_Cancelar = New System.Windows.Forms.Button()
         Me.tbx_Descripcion = New Modulo_Ventas.cp_Textbox()
         Me.Lbl_Registros = New System.Windows.Forms.Label()
@@ -63,9 +63,9 @@ Partial Class Frm_RazonSocialExternos
         Me.tbx_Descripcion.Control_Siguiente = Nothing
         Me.tbx_Descripcion.Filtrado = False
         Me.tbx_Descripcion.Location = New System.Drawing.Point(110, 44)
-        Me.tbx_Descripcion.MaxLength = 50
+        Me.tbx_Descripcion.MaxLength = 250
         Me.tbx_Descripcion.Name = "tbx_Descripcion"
-        Me.tbx_Descripcion.Size = New System.Drawing.Size(228, 20)
+        Me.tbx_Descripcion.Size = New System.Drawing.Size(355, 20)
         Me.tbx_Descripcion.TabIndex = 1
         Me.tbx_Descripcion.TipoDatos = Modulo_Ventas.FuncionesGlobales.Validar_Cadena.LetrasNumerosYCar
         '
@@ -193,9 +193,9 @@ Partial Class Frm_RazonSocialExternos
         Me.lsv_Catalogo.FullRowSelect = True
         Me.lsv_Catalogo.HideSelection = False
         Me.lsv_Catalogo.Location = New System.Drawing.Point(3, 56)
-        ListViewColumnSorter4.Order = System.Windows.Forms.SortOrder.None
-        ListViewColumnSorter4.SortColumn = 0
-        Me.lsv_Catalogo.Lvs = ListViewColumnSorter4
+        ListViewColumnSorter1.Order = System.Windows.Forms.SortOrder.None
+        ListViewColumnSorter1.SortColumn = 0
+        Me.lsv_Catalogo.Lvs = ListViewColumnSorter1
         Me.lsv_Catalogo.MultiSelect = False
         Me.lsv_Catalogo.Name = "lsv_Catalogo"
         Me.lsv_Catalogo.Row1 = 30
